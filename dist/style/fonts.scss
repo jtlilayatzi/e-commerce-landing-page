@@ -1,0 +1,46 @@
+@import 'colors';
+
+/* ============================================= 
+    FONT VARIABLES
+   ============================================= */
+   $thin: 100; 
+   $extra-light: 200; 
+   $light: 300; 
+   $regular: 400; 
+   $medium: 500; 
+   $semi-bold: 600; 
+   $bold: 700; 
+   $extra-bold: 800; 
+   $black: 900; 
+
+   @font-face{
+       font-family: 'Kumbh Sans';
+       font-style: normal;
+       src: url(https://fonts.gstatic.com/s/kumbhsans/v6/c4ml1n92AsfhuCq6tVsaio5d-Zq-.woff2) format('woff2');
+   }
+   
+   body { 
+       font-family: 'Kumbh Sans', sans-serif;
+       color: $font;
+    }
+   
+    h6 {font-size: 1.5rem; }
+    h5 {font-size: 2rem; }
+    h4 {font-size: 2.5rem; }
+    h3 {font-size: 3rem; }
+    h2 {font-size: 3.5rem; }
+    h1 {font-size: 4rem; }
+
+    /* ==================================================
+        FONT-WEIGHTS 
+       ==================================================
+    */
+    h1 { font-weight: $bold; }
+   
+    p {
+       font-weight: $regular;
+       opacity: 0.6;
+      }
+
+
+

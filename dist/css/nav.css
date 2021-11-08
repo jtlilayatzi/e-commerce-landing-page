@@ -1,0 +1,69 @@
+/* ============================================= 
+    COLORS
+   ============================================= */
+/* ============================================= 
+    FONT VARIABLES
+   ============================================= */
+@font-face {
+  font-family: "Kumbh Sans";
+  font-style: normal;
+  src: url(https://fonts.gstatic.com/s/kumbhsans/v6/c4ml1n92AsfhuCq6tVsaio5d-Zq-.woff2) format("woff2");
+}
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  color: #000000;
+}
+
+h6 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 2rem;
+}
+
+h4 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+/* ==================================================
+    FONT-WEIGHTS 
+   ==================================================
+*/
+h1 {
+  font-weight: 700;
+}
+
+p {
+  font-weight: 400;
+  opacity: 0.6;
+}
+
+.nav {
+  align-items: center;
+  column-gap: 1.5rem;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+.nav .logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.nav .shopping__cart {
+  margin-left: 3.5em;
+}
+
+/*# sourceMappingURL=nav.css.map */

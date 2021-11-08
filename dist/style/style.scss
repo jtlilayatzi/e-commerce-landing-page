@@ -1,0 +1,13 @@
+@import 'fonts'; 
+@import 'nav';
+@import 'content';
+
+* {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%; /*Set the maximum width of the image to the size of the container width*/ 
+}

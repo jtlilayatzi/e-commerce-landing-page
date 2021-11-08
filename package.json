@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce-landing-page",
+  "version": "1.0.0",
+  "description": "E-commerce landing page using sass and vanillajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtlilayatzi/e-commerce-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtlilayatzi/e-commerce-landing-page/issues"
+  },
+  "homepage": "https://github.com/jtlilayatzi/e-commerce-landing-page#readme",
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}
